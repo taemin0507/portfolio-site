@@ -18,9 +18,9 @@ body {
   /* 고정된 헤더 테스트용 */
   /* height: 3000px; */
 }
-html, body{
+/* html, body{
   overflow: hidden;
-}
+} */
 /* 영문에만 적용할 폰트 */
 .font-en {
   font-family: "Open Sans", sans-serif;
